@@ -1,0 +1,3 @@
+description="A plugin that adds custom footer html to Shaarli pages."
+parameters="CUSTOMFOOTER_HTML"
+parameter.CUSTOMFOOTER_HTML="HTML code to add"
